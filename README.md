@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alihsaad
 - 👀 I’m interested in web development and game development 
-- 🌱 I’m currently learning C++ and Unity Engine Developement 
 - 📫 How to reach me: ali.hisham.ahmed@gmail.com
 
 <!---
